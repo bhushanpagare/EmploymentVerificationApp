@@ -1,0 +1,6 @@
+@EmploymentVerificationAPI_HostAddress = http://localhost:5217
+
+GET {{EmploymentVerificationAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
